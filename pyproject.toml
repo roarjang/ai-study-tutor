@@ -1,0 +1,9 @@
+[project]
+name = "ai-study-tutor"
+version = "0.1.0"
+description = "A local-first AI study tutor for learning AI agents with LangChain, RAG, LangGraph, tool calling, and LLMOps."
+requires-python = "==3.13.*"
+dependencies = []
+
+[tool.uv]
+package = false
